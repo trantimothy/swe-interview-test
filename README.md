@@ -9,3 +9,17 @@ THIS IS TO TEST YOUR SKILLS TO MEET OUR APP DEVELOPMENT REQUIREMENTS
 
 HAPPY CODING! </br>
 A Round Entertainment
+
+# HOW TO LAUNCH
+
+Backend:
+1. Ensure you are in the directory swe-interview-test/StarterCode/backend (cd if not)
+2. Install the packages needed with `npm install` (first time only)
+3. `npm start` to run (at `http://localhost:5001`)
+
+Frontend:
+1. Ensure you are in the directory swe-interview-test/StarterCode/frontend (cd if not)
+2. Install the packages needed with `npm install` (first time only)
+3. `npm start` to run (at `http://localhost:3000`)
+
+To view the web application, open a new tab in a web browser at `http://localhost:3000`
